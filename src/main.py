@@ -60,9 +60,12 @@ def main() -> None:
     remove_legacy_ics_files(ics_path)
     write_preview_csv(matches, preview_path)
     write_ics(matches, ics_path, CALENDAR_NAME)
-    publish_subscription_files(ics_path, Path(args.publish_dir))
+    publish_dir = Path(args.publish_dir)
+    if not publish_dir.is_absolute():
+        publish_dir = ROOT / publish_dir
+    publish_subscription_files(ics_path, publish_dir)
 
-    written = [preview_path, ics_path, Path(args.publish_dir) / "worldcup_2026.ics"]
+    written = [preview_path, ics_path, publish_dir / "worldcup_2026.ics"]
     group_stage_count = sum(1 for match in matches if match.stage == "First Stage")
     print(
         f"Loaded {len(matches)} tournament matches; "
