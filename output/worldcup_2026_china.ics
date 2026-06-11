@@ -1,0 +1,4473 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Codex//2026 FIFA World Cup Calendar//EN
+X-WR-CALNAME:2026 FIFA World Cup
+X-WR-TIMEZONE:Asia/Shanghai
+X-APPLE-CALENDAR-COLOR:#0A84FF
+REFRESH-INTERVAL;VALUE=DURATION:PT30M
+X-PUBLISHED-TTL:PT30M
+BEGIN:VEVENT
+UID:fifa-2026-match-400021443@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260612T030000
+DTEND;TZID=Asia/Shanghai:20260612T050000
+SUMMARY:🔥 🇲🇽 Mexico vs South Africa 🇿🇦
+LOCATION:Mexico City Stadium\, Mexico City\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group A\nRound/Group: Group A\nHot M
+ atch: Yes\nHot Reason: Host nation match\nFinal Score: Not played\nFIFA Ma
+ tch Status: 1\nVenue: Mexico City Stadium\nCity/Country: Mexico City\, Mex
+ ico\nKickoff: 2026-06-12T03:00:00+08:00\nLocal timezone: America/Mexico_Ci
+ ty\nBroadcaster: Not published in the FIFA API response.\nData source: htt
+ ps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/article
+ s/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.
+ fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&fr
+ om=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a 
+ subscription feed. FIFA updates to teams\, scores\, and later rounds are p
+ ublished with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:d686e6f23cca
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021441@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260612T100000
+DTEND;TZID=Asia/Shanghai:20260612T120000
+SUMMARY:🔥 🇰🇷 Korea Republic vs Czechia 🇨🇿
+LOCATION:Guadalajara Stadium\, Guadalajara\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group A\nRound/Group: Group A\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Guadalajara Stadium\nCity/Country: Guadalajara\, M
+ exico\nKickoff: 2026-06-12T10:00:00+08:00\nLocal timezone: America/Mexico_
+ City\nBroadcaster: Not published in the FIFA API response.\nData source: h
+ ttps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/artic
+ les/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://ap
+ i.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&
+ from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is 
+ a subscription feed. FIFA updates to teams\, scores\, and later rounds are
+  published with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:2d3161267519
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021449@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260613T030000
+DTEND;TZID=Asia/Shanghai:20260613T050000
+SUMMARY:🔥 🇨🇦 Canada vs Bosnia and Herzegovina 🇧🇦
+LOCATION:Toronto Stadium\, Toronto\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group B\nRound/Group: Group B\nHot M
+ atch: Yes\nHot Reason: Host nation match\nFinal Score: Not played\nFIFA Ma
+ tch Status: 1\nVenue: Toronto Stadium\nCity/Country: Toronto\, Canada\nKic
+ koff: 2026-06-13T03:00:00+08:00\nLocal timezone: America/Toronto\nBroadcas
+ ter: Not published in the FIFA API response.\nData source: https://www.fif
+ a.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sche
+ dule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api
+ /v3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-0
+ 1T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription
+  feed. FIFA updates to teams\, scores\, and later rounds are published wit
+ h stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:0dc35eabb4a0
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021458@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260613T090000
+DTEND;TZID=Asia/Shanghai:20260613T110000
+SUMMARY:🔥 🇺🇸 USA vs Paraguay 🇵🇾
+LOCATION:Los Angeles Stadium\, Los Angeles\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group D\nRound/Group: Group D\nHot M
+ atch: Yes\nHot Reason: Host nation match\nFinal Score: Not played\nFIFA Ma
+ tch Status: 1\nVenue: Los Angeles Stadium\nCity/Country: Los Angeles\, USA
+ \nKickoff: 2026-06-13T09:00:00+08:00\nLocal timezone: America/Los_Angeles\
+ nBroadcaster: Not published in the FIFA API response.\nData source: https:
+ //www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/m
+ atch-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.fif
+ a.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&from=
+ 2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a sub
+ scription feed. FIFA updates to teams\, scores\, and later rounds are publ
+ ished with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:8b969b4135fa
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021453@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260614T090000
+DTEND;TZID=Asia/Shanghai:20260614T110000
+SUMMARY:🇭🇹 Haiti vs Scotland 🏴
+LOCATION:Boston Stadium\, Boston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group C\nRound/Group: Group C\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Boston Stadium\nCity/Country: Boston\, USA\nKickoff: 2026-06-14T09:
+ 00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published 
+ in the FIFA API response.\nData source: https://www.fifa.com/en/tournament
+ s/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resul
+ ts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matche
+ s?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=
+ 2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates
+  to teams\, scores\, and later rounds are published with stable event UIDs
+ .
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:96590a7bdc8e
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021463@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260614T120000
+DTEND;TZID=Asia/Shanghai:20260614T140000
+SUMMARY:🇦🇺 Australia vs Türkiye 🇹🇷
+LOCATION:BC Place Vancouver\, Vancouver\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group D\nRound/Group: Group D\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: BC Place Vancouver\nCity/Country: Vancouver\, Canada\nKickoff: 2026
+ -06-14T12:00:00+08:00\nLocal timezone: America/Vancouver\nBroadcaster: Not
+  published in the FIFA API response.\nData source: https://www.fifa.com/en
+ /tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fix
+ tures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/cale
+ ndar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A0
+ 0%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. F
+ IFA updates to teams\, scores\, and later rounds are published with stable
+  event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:9f56ecf621e1
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021456@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260614T060000
+DTEND;TZID=Asia/Shanghai:20260614T080000
+SUMMARY:🔥 🇧🇷 Brazil vs Morocco 🇲🇦
+LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group C\nRound/Group: Group C\nHot M
+ atch: Yes\nHot Reason: FIFA/media focus candidate configured manually\nFin
+ al Score: Not played\nFIFA Match Status: 1\nVenue: New York/New Jersey Sta
+ dium\nCity/Country: New Jersey\, USA\nKickoff: 2026-06-14T06:00:00+08:00\n
+ Local timezone: America/New_York\nBroadcaster: Not published in the FIFA A
+ PI response.\nData source: https://www.fifa.com/en/tournaments/mens/worldc
+ up/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stad
+ iums\nAPI source: https://api.fifa.com/api/v3/calendar/matches?language=en
+ &count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00
+ %3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates to teams\, s
+ cores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:e2cbf5ec6188
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021447@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260614T030000
+DTEND;TZID=Asia/Shanghai:20260614T050000
+SUMMARY:🇶🇦 Qatar vs Switzerland 🇨🇭
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group B\nRound/Group: Group B\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: San Francisco Bay Area Stadium\nCity/Country: San Francisco Bay Are
+ a\, USA\nKickoff: 2026-06-14T03:00:00+08:00\nLocal timezone: America/Los_A
+ ngeles\nBroadcaster: Not published in the FIFA API response.\nData source:
+  https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/art
+ icles/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://
+ api.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=1
+ 7&from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This i
+ s a subscription feed. FIFA updates to teams\, scores\, and later rounds a
+ re published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:95413f59cc91
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021467@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260615T070000
+DTEND;TZID=Asia/Shanghai:20260615T090000
+SUMMARY:🇨🇮 Côte d'Ivoire vs Ecuador 🇪🇨
+LOCATION:Philadelphia Stadium\, Philadelphia\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group E\nRound/Group: Group E\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Philadelphia Stadium\nCity/Country: Philadelphia\, USA\nKickoff: 20
+ 26-06-15T07:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: No
+ t published in the FIFA API response.\nData source: https://www.fifa.com/e
+ n/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fi
+ xtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/cal
+ endar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A
+ 00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. 
+ FIFA updates to teams\, scores\, and later rounds are published with stabl
+ e event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:88d282fe32cf
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021464@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260615T010000
+DTEND;TZID=Asia/Shanghai:20260615T030000
+SUMMARY:🇩🇪 Germany vs Curaçao 🇨🇼
+LOCATION:Houston Stadium\, Houston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group E\nRound/Group: Group E\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Houston Stadium\nCity/Country: Houston\, USA\nKickoff: 2026-06-15T0
+ 1:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published
+  in the FIFA API response.\nData source: https://www.fifa.com/en/tournamen
+ ts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resu
+ lts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/match
+ es?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to
+ =2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA update
+ s to teams\, scores\, and later rounds are published with stable event UID
+ s.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:e5311ef59387
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021470@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260615T040000
+DTEND;TZID=Asia/Shanghai:20260615T060000
+SUMMARY:🔥 🇳🇱 Netherlands vs Japan 🇯🇵
+LOCATION:Dallas Stadium\, Dallas\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group F\nRound/Group: Group F\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Dallas Stadium\nCity/Country: Dallas\, USA\nKickof
+ f: 2026-06-15T04:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster
+ : Not published in the FIFA API response.\nData source: https://www.fifa.c
+ om/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedul
+ e-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3
+ /calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T0
+ 0%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription fe
+ ed. FIFA updates to teams\, scores\, and later rounds are published with s
+ table event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:a9bc5b972ddf
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021474@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260615T100000
+DTEND;TZID=Asia/Shanghai:20260615T120000
+SUMMARY:🇸🇪 Sweden vs Tunisia 🇹🇳
+LOCATION:Monterrey Stadium\, Monterrey\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group F\nRound/Group: Group F\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Monterrey Stadium\nCity/Country: Monterrey\, Mexico\nKickoff: 2026-
+ 06-15T10:00:00+08:00\nLocal timezone: America/Monterrey\nBroadcaster: Not 
+ published in the FIFA API response.\nData source: https://www.fifa.com/en/
+ tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixt
+ ures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calen
+ dar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00
+ %3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FI
+ FA updates to teams\, scores\, and later rounds are published with stable 
+ event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:77e9ce456ea0
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021486@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260616T060000
+DTEND;TZID=Asia/Shanghai:20260616T080000
+SUMMARY:🇸🇦 Saudi Arabia vs Uruguay 🇺🇾
+LOCATION:Miami Stadium\, Miami\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group H\nRound/Group: Group H\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Miami Stadium\nCity/Country: Miami\, USA\nKickoff: 2026-06-16T06:00
+ :00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published in
+  the FIFA API response.\nData source: https://www.fifa.com/en/tournaments/
+ mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results
+ -teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches?
+ language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=20
+ 26-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates t
+ o teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:3254c4167699
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021482@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260616T000000
+DTEND;TZID=Asia/Shanghai:20260616T020000
+SUMMARY:🇪🇸 Spain vs Cabo Verde 🇨🇻
+LOCATION:Atlanta Stadium\, Atlanta\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group H\nRound/Group: Group H\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Atlanta Stadium\nCity/Country: Atlanta\, USA\nKickoff: 2026-06-16T0
+ 0:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not publishe
+ d in the FIFA API response.\nData source: https://www.fifa.com/en/tourname
+ nts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-res
+ ults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matc
+ hes?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&t
+ o=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updat
+ es to teams\, scores\, and later rounds are published with stable event UI
+ Ds.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:8b5898f6ec5b
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021476@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260616T090000
+DTEND;TZID=Asia/Shanghai:20260616T110000
+SUMMARY:🇮🇷 IR Iran vs New Zealand 🇳🇿
+LOCATION:Los Angeles Stadium\, Los Angeles\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group G\nRound/Group: Group G\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Los Angeles Stadium\nCity/Country: Los Angeles\, USA\nKickoff: 2026
+ -06-16T09:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadcaster: N
+ ot published in the FIFA API response.\nData source: https://www.fifa.com/
+ en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
+ ixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/ca
+ lendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3
+ A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed.
+  FIFA updates to teams\, scores\, and later rounds are published with stab
+ le event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:86de9e7fa2a3
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021478@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260616T030000
+DTEND;TZID=Asia/Shanghai:20260616T050000
+SUMMARY:🔥 🇧🇪 Belgium vs Egypt 🇪🇬
+LOCATION:Seattle Stadium\, Seattle\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group G\nRound/Group: Group G\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Seattle Stadium\nCity/Country: Seattle\, USA\nKick
+ off: 2026-06-16T03:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroad
+ caster: Not published in the FIFA API response.\nData source: https://www.
+ fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-s
+ chedule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/
+ api/v3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-0
+ 6-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscript
+ ion feed. FIFA updates to teams\, scores\, and later rounds are published 
+ with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:5c88c5d080de
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021490@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260617T030000
+DTEND;TZID=Asia/Shanghai:20260617T050000
+SUMMARY:🇫🇷 France vs Senegal 🇸🇳
+LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group I\nRound/Group: Group I\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: New York/New Jersey Stadium\nCity/Country: New Jersey\, USA\nKickof
+ f: 2026-06-17T03:00:00+08:00\nLocal timezone: America/New_York\nBroadcaste
+ r: Not published in the FIFA API response.\nData source: https://www.fifa.
+ com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedu
+ le-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v
+ 3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T
+ 00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription f
+ eed. FIFA updates to teams\, scores\, and later rounds are published with 
+ stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:00c426be1910
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021488@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260617T060000
+DTEND;TZID=Asia/Shanghai:20260617T080000
+SUMMARY:🇮🇶 Iraq vs Norway 🇳🇴
+LOCATION:Boston Stadium\, Boston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group I\nRound/Group: Group I\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Boston Stadium\nCity/Country: Boston\, USA\nKickoff: 2026-06-17T06:
+ 00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published 
+ in the FIFA API response.\nData source: https://www.fifa.com/en/tournament
+ s/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resul
+ ts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matche
+ s?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=
+ 2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates
+  to teams\, scores\, and later rounds are published with stable event UIDs
+ .
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:b1383b65ab45
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021496@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260617T090000
+DTEND;TZID=Asia/Shanghai:20260617T110000
+SUMMARY:🇦🇷 Argentina vs Algeria 🇩🇿
+LOCATION:Kansas City Stadium\, Kansas City\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group J\nRound/Group: Group J\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Kansas City Stadium\nCity/Country: Kansas City\, USA\nKickoff: 2026
+ -06-17T09:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not p
+ ublished in the FIFA API response.\nData source: https://www.fifa.com/en/t
+ ournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtu
+ res-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calend
+ ar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%
+ 3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIF
+ A updates to teams\, scores\, and later rounds are published with stable e
+ vent UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:a2c2162c447f
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021498@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260617T120000
+DTEND;TZID=Asia/Shanghai:20260617T140000
+SUMMARY:🇦🇹 Austria vs Jordan 🇯🇴
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group J\nRound/Group: Group J\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: San Francisco Bay Area Stadium\nCity/Country: San Francisco Bay Are
+ a\, USA\nKickoff: 2026-06-17T12:00:00+08:00\nLocal timezone: America/Los_A
+ ngeles\nBroadcaster: Not published in the FIFA API response.\nData source:
+  https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/art
+ icles/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://
+ api.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=1
+ 7&from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This i
+ s a subscription feed. FIFA updates to teams\, scores\, and later rounds a
+ re published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:daffc0a21acb
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021510@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260618T070000
+DTEND;TZID=Asia/Shanghai:20260618T090000
+SUMMARY:🇬🇭 Ghana vs Panama 🇵🇦
+LOCATION:Toronto Stadium\, Toronto\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group L\nRound/Group: Group L\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Toronto Stadium\nCity/Country: Toronto\, Canada\nKickoff: 2026-06-1
+ 8T07:00:00+08:00\nLocal timezone: America/Toronto\nBroadcaster: Not publis
+ hed in the FIFA API response.\nData source: https://www.fifa.com/en/tourna
+ ments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-r
+ esults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/ma
+ tches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z
+ &to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA upd
+ ates to teams\, scores\, and later rounds are published with stable event 
+ UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:87033801978f
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021507@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260618T040000
+DTEND;TZID=Asia/Shanghai:20260618T060000
+SUMMARY:🔥 🏴 England vs Croatia 🇭🇷
+LOCATION:Dallas Stadium\, Dallas\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group L\nRound/Group: Group L\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Dallas Stadium\nCity/Country: Dallas\, USA\nKickof
+ f: 2026-06-18T04:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster
+ : Not published in the FIFA API response.\nData source: https://www.fifa.c
+ om/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedul
+ e-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3
+ /calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T0
+ 0%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription fe
+ ed. FIFA updates to teams\, scores\, and later rounds are published with s
+ table event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:7d88812476c8
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021502@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260618T010000
+DTEND;TZID=Asia/Shanghai:20260618T030000
+SUMMARY:🇵🇹 Portugal vs Congo DR 🇨🇩
+LOCATION:Houston Stadium\, Houston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group K\nRound/Group: Group K\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Houston Stadium\nCity/Country: Houston\, USA\nKickoff: 2026-06-18T0
+ 1:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published
+  in the FIFA API response.\nData source: https://www.fifa.com/en/tournamen
+ ts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resu
+ lts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/match
+ es?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to
+ =2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA update
+ s to teams\, scores\, and later rounds are published with stable event UID
+ s.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:d2d51c7ad2cc
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021504@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260618T100000
+DTEND;TZID=Asia/Shanghai:20260618T120000
+SUMMARY:🔥 🇺🇿 Uzbekistan vs Colombia 🇨🇴
+LOCATION:Mexico City Stadium\, Mexico City\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group K\nRound/Group: Group K\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Mexico City Stadium\nCity/Country: Mexico City\, M
+ exico\nKickoff: 2026-06-18T10:00:00+08:00\nLocal timezone: America/Mexico_
+ City\nBroadcaster: Not published in the FIFA API response.\nData source: h
+ ttps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/artic
+ les/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://ap
+ i.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&
+ from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is 
+ a subscription feed. FIFA updates to teams\, scores\, and later rounds are
+  published with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:95179f09ba80
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021440@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260619T000000
+DTEND;TZID=Asia/Shanghai:20260619T020000
+SUMMARY:🇨🇿 Czechia vs South Africa 🇿🇦
+LOCATION:Atlanta Stadium\, Atlanta\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group A\nRound/Group: Group A\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Atlanta Stadium\nCity/Country: Atlanta\, USA\nKickoff: 2026-06-19T0
+ 0:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not publishe
+ d in the FIFA API response.\nData source: https://www.fifa.com/en/tourname
+ nts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-res
+ ults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matc
+ hes?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&t
+ o=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updat
+ es to teams\, scores\, and later rounds are published with stable event UI
+ Ds.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:3bf0436147f1
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021446@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260619T030000
+DTEND;TZID=Asia/Shanghai:20260619T050000
+SUMMARY:🇨🇭 Switzerland vs Bosnia and Herzegovina 🇧🇦
+LOCATION:Los Angeles Stadium\, Los Angeles\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group B\nRound/Group: Group B\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Los Angeles Stadium\nCity/Country: Los Angeles\, USA\nKickoff: 2026
+ -06-19T03:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadcaster: N
+ ot published in the FIFA API response.\nData source: https://www.fifa.com/
+ en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
+ ixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/ca
+ lendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3
+ A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed.
+  FIFA updates to teams\, scores\, and later rounds are published with stab
+ le event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:c1d91714ef4f
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021450@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260619T060000
+DTEND;TZID=Asia/Shanghai:20260619T080000
+SUMMARY:🔥 🇨🇦 Canada vs Qatar 🇶🇦
+LOCATION:BC Place Vancouver\, Vancouver\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group B\nRound/Group: Group B\nHot M
+ atch: Yes\nHot Reason: Host nation match\nFinal Score: Not played\nFIFA Ma
+ tch Status: 1\nVenue: BC Place Vancouver\nCity/Country: Vancouver\, Canada
+ \nKickoff: 2026-06-19T06:00:00+08:00\nLocal timezone: America/Vancouver\nB
+ roadcaster: Not published in the FIFA API response.\nData source: https://
+ www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mat
+ ch-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.
+ com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&from=20
+ 26-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subsc
+ ription feed. FIFA updates to teams\, scores\, and later rounds are publis
+ hed with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:a858c09afe2c
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021442@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260619T090000
+DTEND;TZID=Asia/Shanghai:20260619T110000
+SUMMARY:🔥 🇲🇽 Mexico vs Korea Republic 🇰🇷
+LOCATION:Guadalajara Stadium\, Guadalajara\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group A\nRound/Group: Group A\nHot M
+ atch: Yes\nHot Reason: Host nation match\nFinal Score: Not played\nFIFA Ma
+ tch Status: 1\nVenue: Guadalajara Stadium\nCity/Country: Guadalajara\, Mex
+ ico\nKickoff: 2026-06-19T09:00:00+08:00\nLocal timezone: America/Mexico_Ci
+ ty\nBroadcaster: Not published in the FIFA API response.\nData source: htt
+ ps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/article
+ s/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.
+ fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&fr
+ om=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a 
+ subscription feed. FIFA updates to teams\, scores\, and later rounds are p
+ ublished with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:a18fb0f18aa6
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021457@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260620T083000
+DTEND;TZID=Asia/Shanghai:20260620T103000
+SUMMARY:🇧🇷 Brazil vs Haiti 🇭🇹
+LOCATION:Philadelphia Stadium\, Philadelphia\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group C\nRound/Group: Group C\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Philadelphia Stadium\nCity/Country: Philadelphia\, USA\nKickoff: 20
+ 26-06-20T08:30:00+08:00\nLocal timezone: America/New_York\nBroadcaster: No
+ t published in the FIFA API response.\nData source: https://www.fifa.com/e
+ n/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fi
+ xtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/cal
+ endar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A
+ 00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. 
+ FIFA updates to teams\, scores\, and later rounds are published with stabl
+ e event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:17662ce240af
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021454@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260620T060000
+DTEND;TZID=Asia/Shanghai:20260620T080000
+SUMMARY:🔥 🏴 Scotland vs Morocco 🇲🇦
+LOCATION:Boston Stadium\, Boston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group C\nRound/Group: Group C\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Boston Stadium\nCity/Country: Boston\, USA\nKickof
+ f: 2026-06-20T06:00:00+08:00\nLocal timezone: America/New_York\nBroadcaste
+ r: Not published in the FIFA API response.\nData source: https://www.fifa.
+ com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedu
+ le-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v
+ 3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T
+ 00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription f
+ eed. FIFA updates to teams\, scores\, and later rounds are published with 
+ stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:567f9d72b117
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021460@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260620T110000
+DTEND;TZID=Asia/Shanghai:20260620T130000
+SUMMARY:🇹🇷 Türkiye vs Paraguay 🇵🇾
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group D\nRound/Group: Group D\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: San Francisco Bay Area Stadium\nCity/Country: San Francisco Bay Are
+ a\, USA\nKickoff: 2026-06-20T11:00:00+08:00\nLocal timezone: America/Los_A
+ ngeles\nBroadcaster: Not published in the FIFA API response.\nData source:
+  https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/art
+ icles/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://
+ api.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=1
+ 7&from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This i
+ s a subscription feed. FIFA updates to teams\, scores\, and later rounds a
+ re published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:3b24f6ceccb4
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021462@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260620T030000
+DTEND;TZID=Asia/Shanghai:20260620T050000
+SUMMARY:🔥 🇺🇸 USA vs Australia 🇦🇺
+LOCATION:Seattle Stadium\, Seattle\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group D\nRound/Group: Group D\nHot M
+ atch: Yes\nHot Reason: Host nation match\nFinal Score: Not played\nFIFA Ma
+ tch Status: 1\nVenue: Seattle Stadium\nCity/Country: Seattle\, USA\nKickof
+ f: 2026-06-20T03:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadca
+ ster: Not published in the FIFA API response.\nData source: https://www.fi
+ fa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sch
+ edule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/ap
+ i/v3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-
+ 01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscriptio
+ n feed. FIFA updates to teams\, scores\, and later rounds are published wi
+ th stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:130dccd65d79
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021469@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260621T040000
+DTEND;TZID=Asia/Shanghai:20260621T060000
+SUMMARY:🇩🇪 Germany vs Côte d'Ivoire 🇨🇮
+LOCATION:Toronto Stadium\, Toronto\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group E\nRound/Group: Group E\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Toronto Stadium\nCity/Country: Toronto\, Canada\nKickoff: 2026-06-2
+ 1T04:00:00+08:00\nLocal timezone: America/Toronto\nBroadcaster: Not publis
+ hed in the FIFA API response.\nData source: https://www.fifa.com/en/tourna
+ ments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-r
+ esults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/ma
+ tches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z
+ &to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA upd
+ ates to teams\, scores\, and later rounds are published with stable event 
+ UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:42489d442779
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021465@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260621T080000
+DTEND;TZID=Asia/Shanghai:20260621T100000
+SUMMARY:🇪🇨 Ecuador vs Curaçao 🇨🇼
+LOCATION:Kansas City Stadium\, Kansas City\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group E\nRound/Group: Group E\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Kansas City Stadium\nCity/Country: Kansas City\, USA\nKickoff: 2026
+ -06-21T08:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not p
+ ublished in the FIFA API response.\nData source: https://www.fifa.com/en/t
+ ournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtu
+ res-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calend
+ ar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%
+ 3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIF
+ A updates to teams\, scores\, and later rounds are published with stable e
+ vent UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:e2e3f2e2192a
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021472@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260621T010000
+DTEND;TZID=Asia/Shanghai:20260621T030000
+SUMMARY:🇳🇱 Netherlands vs Sweden 🇸🇪
+LOCATION:Houston Stadium\, Houston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group F\nRound/Group: Group F\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Houston Stadium\nCity/Country: Houston\, USA\nKickoff: 2026-06-21T0
+ 1:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published
+  in the FIFA API response.\nData source: https://www.fifa.com/en/tournamen
+ ts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resu
+ lts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/match
+ es?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to
+ =2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA update
+ s to teams\, scores\, and later rounds are published with stable event UID
+ s.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:8e293083ac8f
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021475@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260621T120000
+DTEND;TZID=Asia/Shanghai:20260621T140000
+SUMMARY:🔥 🇹🇳 Tunisia vs Japan 🇯🇵
+LOCATION:Monterrey Stadium\, Monterrey\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group F\nRound/Group: Group F\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Monterrey Stadium\nCity/Country: Monterrey\, Mexic
+ o\nKickoff: 2026-06-21T12:00:00+08:00\nLocal timezone: America/Monterrey\n
+ Broadcaster: Not published in the FIFA API response.\nData source: https:/
+ /www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ma
+ tch-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa
+ .com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&from=2
+ 026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subs
+ cription feed. FIFA updates to teams\, scores\, and later rounds are publi
+ shed with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:f86a57588491
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021487@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260622T060000
+DTEND;TZID=Asia/Shanghai:20260622T080000
+SUMMARY:🇺🇾 Uruguay vs Cabo Verde 🇨🇻
+LOCATION:Miami Stadium\, Miami\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group H\nRound/Group: Group H\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Miami Stadium\nCity/Country: Miami\, USA\nKickoff: 2026-06-22T06:00
+ :00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published in
+  the FIFA API response.\nData source: https://www.fifa.com/en/tournaments/
+ mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results
+ -teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches?
+ language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=20
+ 26-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates t
+ o teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:18bbe663bd8d
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021483@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260622T000000
+DTEND;TZID=Asia/Shanghai:20260622T020000
+SUMMARY:🇪🇸 Spain vs Saudi Arabia 🇸🇦
+LOCATION:Atlanta Stadium\, Atlanta\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group H\nRound/Group: Group H\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Atlanta Stadium\nCity/Country: Atlanta\, USA\nKickoff: 2026-06-22T0
+ 0:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not publishe
+ d in the FIFA API response.\nData source: https://www.fifa.com/en/tourname
+ nts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-res
+ ults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matc
+ hes?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&t
+ o=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updat
+ es to teams\, scores\, and later rounds are published with stable event UI
+ Ds.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:fb6d159c1ee1
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021477@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260622T030000
+DTEND;TZID=Asia/Shanghai:20260622T050000
+SUMMARY:🔥 🇧🇪 Belgium vs IR Iran 🇮🇷
+LOCATION:Los Angeles Stadium\, Los Angeles\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group G\nRound/Group: Group G\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Los Angeles Stadium\nCity/Country: Los Angeles\, U
+ SA\nKickoff: 2026-06-22T03:00:00+08:00\nLocal timezone: America/Los_Angele
+ s\nBroadcaster: Not published in the FIFA API response.\nData source: http
+ s://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles
+ /match-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.f
+ ifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&fro
+ m=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a s
+ ubscription feed. FIFA updates to teams\, scores\, and later rounds are pu
+ blished with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:5b86b384e3ea
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021480@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260622T090000
+DTEND;TZID=Asia/Shanghai:20260622T110000
+SUMMARY:🇳🇿 New Zealand vs Egypt 🇪🇬
+LOCATION:BC Place Vancouver\, Vancouver\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group G\nRound/Group: Group G\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: BC Place Vancouver\nCity/Country: Vancouver\, Canada\nKickoff: 2026
+ -06-22T09:00:00+08:00\nLocal timezone: America/Vancouver\nBroadcaster: Not
+  published in the FIFA API response.\nData source: https://www.fifa.com/en
+ /tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fix
+ tures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/cale
+ ndar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A0
+ 0%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. F
+ IFA updates to teams\, scores\, and later rounds are published with stable
+  event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:d8194d3c82b4
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021491@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260623T080000
+DTEND;TZID=Asia/Shanghai:20260623T100000
+SUMMARY:🇳🇴 Norway vs Senegal 🇸🇳
+LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group I\nRound/Group: Group I\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: New York/New Jersey Stadium\nCity/Country: New Jersey\, USA\nKickof
+ f: 2026-06-23T08:00:00+08:00\nLocal timezone: America/New_York\nBroadcaste
+ r: Not published in the FIFA API response.\nData source: https://www.fifa.
+ com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedu
+ le-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v
+ 3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T
+ 00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription f
+ eed. FIFA updates to teams\, scores\, and later rounds are published with 
+ stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:fe2e3a963722
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021492@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260623T050000
+DTEND;TZID=Asia/Shanghai:20260623T070000
+SUMMARY:🇫🇷 France vs Iraq 🇮🇶
+LOCATION:Philadelphia Stadium\, Philadelphia\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group I\nRound/Group: Group I\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Philadelphia Stadium\nCity/Country: Philadelphia\, USA\nKickoff: 20
+ 26-06-23T05:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: No
+ t published in the FIFA API response.\nData source: https://www.fifa.com/e
+ n/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fi
+ xtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/cal
+ endar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A
+ 00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. 
+ FIFA updates to teams\, scores\, and later rounds are published with stabl
+ e event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:b0121a01cba3
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021494@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260623T010000
+DTEND;TZID=Asia/Shanghai:20260623T030000
+SUMMARY:🇦🇷 Argentina vs Austria 🇦🇹
+LOCATION:Dallas Stadium\, Dallas\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group J\nRound/Group: Group J\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Dallas Stadium\nCity/Country: Dallas\, USA\nKickoff: 2026-06-23T01:
+ 00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published i
+ n the FIFA API response.\nData source: https://www.fifa.com/en/tournaments
+ /mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-result
+ s-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches
+ ?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=2
+ 026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates 
+ to teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:f2dfa0873b0f
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021499@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260623T110000
+DTEND;TZID=Asia/Shanghai:20260623T130000
+SUMMARY:🇯🇴 Jordan vs Algeria 🇩🇿
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group J\nRound/Group: Group J\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: San Francisco Bay Area Stadium\nCity/Country: San Francisco Bay Are
+ a\, USA\nKickoff: 2026-06-23T11:00:00+08:00\nLocal timezone: America/Los_A
+ ngeles\nBroadcaster: Not published in the FIFA API response.\nData source:
+  https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/art
+ icles/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://
+ api.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=1
+ 7&from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This i
+ s a subscription feed. FIFA updates to teams\, scores\, and later rounds a
+ re published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:ef4856bd9ef9
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021506@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260624T040000
+DTEND;TZID=Asia/Shanghai:20260624T060000
+SUMMARY:🏴 England vs Ghana 🇬🇭
+LOCATION:Boston Stadium\, Boston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group L\nRound/Group: Group L\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Boston Stadium\nCity/Country: Boston\, USA\nKickoff: 2026-06-24T04:
+ 00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published 
+ in the FIFA API response.\nData source: https://www.fifa.com/en/tournament
+ s/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resul
+ ts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matche
+ s?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=
+ 2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates
+  to teams\, scores\, and later rounds are published with stable event UIDs
+ .
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:5737d9431fdd
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021511@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260624T070000
+DTEND;TZID=Asia/Shanghai:20260624T090000
+SUMMARY:🔥 🇵🇦 Panama vs Croatia 🇭🇷
+LOCATION:Toronto Stadium\, Toronto\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group L\nRound/Group: Group L\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Toronto Stadium\nCity/Country: Toronto\, Canada\nK
+ ickoff: 2026-06-24T07:00:00+08:00\nLocal timezone: America/Toronto\nBroadc
+ aster: Not published in the FIFA API response.\nData source: https://www.f
+ ifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sc
+ hedule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/a
+ pi/v3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06
+ -01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscripti
+ on feed. FIFA updates to teams\, scores\, and later rounds are published w
+ ith stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:7c60caf2d2f8
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021503@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260624T010000
+DTEND;TZID=Asia/Shanghai:20260624T030000
+SUMMARY:🇵🇹 Portugal vs Uzbekistan 🇺🇿
+LOCATION:Houston Stadium\, Houston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group K\nRound/Group: Group K\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Houston Stadium\nCity/Country: Houston\, USA\nKickoff: 2026-06-24T0
+ 1:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published
+  in the FIFA API response.\nData source: https://www.fifa.com/en/tournamen
+ ts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resu
+ lts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/match
+ es?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to
+ =2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA update
+ s to teams\, scores\, and later rounds are published with stable event UID
+ s.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:71c28ed4ac09
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021501@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260624T100000
+DTEND;TZID=Asia/Shanghai:20260624T120000
+SUMMARY:🔥 🇨🇴 Colombia vs Congo DR 🇨🇩
+LOCATION:Guadalajara Stadium\, Guadalajara\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group K\nRound/Group: Group K\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Guadalajara Stadium\nCity/Country: Guadalajara\, M
+ exico\nKickoff: 2026-06-24T10:00:00+08:00\nLocal timezone: America/Mexico_
+ City\nBroadcaster: Not published in the FIFA API response.\nData source: h
+ ttps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/artic
+ les/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://ap
+ i.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&
+ from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is 
+ a subscription feed. FIFA updates to teams\, scores\, and later rounds are
+  published with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:a22b436473f7
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021455@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260625T060000
+DTEND;TZID=Asia/Shanghai:20260625T080000
+SUMMARY:🏴 Scotland vs Brazil 🇧🇷
+LOCATION:Miami Stadium\, Miami\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group C\nRound/Group: Group C\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Miami Stadium\nCity/Country: Miami\, USA\nKickoff: 2026-06-25T06:00
+ :00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published in
+  the FIFA API response.\nData source: https://www.fifa.com/en/tournaments/
+ mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results
+ -teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches?
+ language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=20
+ 26-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates t
+ o teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:3f39a631dbb2
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021452@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260625T060000
+DTEND;TZID=Asia/Shanghai:20260625T080000
+SUMMARY:🔥 🇲🇦 Morocco vs Haiti 🇭🇹
+LOCATION:Atlanta Stadium\, Atlanta\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group C\nRound/Group: Group C\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Atlanta Stadium\nCity/Country: Atlanta\, USA\nKick
+ off: 2026-06-25T06:00:00+08:00\nLocal timezone: America/New_York\nBroadcas
+ ter: Not published in the FIFA API response.\nData source: https://www.fif
+ a.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sche
+ dule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api
+ /v3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-0
+ 1T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription
+  feed. FIFA updates to teams\, scores\, and later rounds are published wit
+ h stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:1947e8ae9e31
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021451@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260625T030000
+DTEND;TZID=Asia/Shanghai:20260625T050000
+SUMMARY:🔥 🇨🇭 Switzerland vs Canada 🇨🇦
+LOCATION:BC Place Vancouver\, Vancouver\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group B\nRound/Group: Group B\nHot M
+ atch: Yes\nHot Reason: Host nation match\nFinal Score: Not played\nFIFA Ma
+ tch Status: 1\nVenue: BC Place Vancouver\nCity/Country: Vancouver\, Canada
+ \nKickoff: 2026-06-25T03:00:00+08:00\nLocal timezone: America/Vancouver\nB
+ roadcaster: Not published in the FIFA API response.\nData source: https://
+ www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mat
+ ch-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.
+ com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&from=20
+ 26-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subsc
+ ription feed. FIFA updates to teams\, scores\, and later rounds are publis
+ hed with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:526bc09c609c
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021448@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260625T030000
+DTEND;TZID=Asia/Shanghai:20260625T050000
+SUMMARY:🇧🇦 Bosnia and Herzegovina vs Qatar 🇶🇦
+LOCATION:Seattle Stadium\, Seattle\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group B\nRound/Group: Group B\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Seattle Stadium\nCity/Country: Seattle\, USA\nKickoff: 2026-06-25T0
+ 3:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadcaster: Not publi
+ shed in the FIFA API response.\nData source: https://www.fifa.com/en/tourn
+ aments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-
+ results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/m
+ atches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00
+ Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA up
+ dates to teams\, scores\, and later rounds are published with stable event
+  UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:c1aba62388d2
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021444@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260625T090000
+DTEND;TZID=Asia/Shanghai:20260625T110000
+SUMMARY:🔥 🇨🇿 Czechia vs Mexico 🇲🇽
+LOCATION:Mexico City Stadium\, Mexico City\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group A\nRound/Group: Group A\nHot M
+ atch: Yes\nHot Reason: Host nation match\nFinal Score: Not played\nFIFA Ma
+ tch Status: 1\nVenue: Mexico City Stadium\nCity/Country: Mexico City\, Mex
+ ico\nKickoff: 2026-06-25T09:00:00+08:00\nLocal timezone: America/Mexico_Ci
+ ty\nBroadcaster: Not published in the FIFA API response.\nData source: htt
+ ps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/article
+ s/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.
+ fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&fr
+ om=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a 
+ subscription feed. FIFA updates to teams\, scores\, and later rounds are p
+ ublished with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:96fd750354f3
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021445@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260625T090000
+DTEND;TZID=Asia/Shanghai:20260625T110000
+SUMMARY:🔥 🇿🇦 South Africa vs Korea Republic 🇰🇷
+LOCATION:Monterrey Stadium\, Monterrey\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group A\nRound/Group: Group A\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Monterrey Stadium\nCity/Country: Monterrey\, Mexic
+ o\nKickoff: 2026-06-25T09:00:00+08:00\nLocal timezone: America/Monterrey\n
+ Broadcaster: Not published in the FIFA API response.\nData source: https:/
+ /www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ma
+ tch-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa
+ .com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&from=2
+ 026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subs
+ cription feed. FIFA updates to teams\, scores\, and later rounds are publi
+ shed with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:a3019cd45030
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021468@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260626T040000
+DTEND;TZID=Asia/Shanghai:20260626T060000
+SUMMARY:🇨🇼 Curaçao vs Côte d'Ivoire 🇨🇮
+LOCATION:Philadelphia Stadium\, Philadelphia\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group E\nRound/Group: Group E\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Philadelphia Stadium\nCity/Country: Philadelphia\, USA\nKickoff: 20
+ 26-06-26T04:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: No
+ t published in the FIFA API response.\nData source: https://www.fifa.com/e
+ n/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fi
+ xtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/cal
+ endar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A
+ 00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. 
+ FIFA updates to teams\, scores\, and later rounds are published with stabl
+ e event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:27e70a6478f7
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021466@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260626T040000
+DTEND;TZID=Asia/Shanghai:20260626T060000
+SUMMARY:🇪🇨 Ecuador vs Germany 🇩🇪
+LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group E\nRound/Group: Group E\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: New York/New Jersey Stadium\nCity/Country: New Jersey\, USA\nKickof
+ f: 2026-06-26T04:00:00+08:00\nLocal timezone: America/New_York\nBroadcaste
+ r: Not published in the FIFA API response.\nData source: https://www.fifa.
+ com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedu
+ le-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v
+ 3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T
+ 00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription f
+ eed. FIFA updates to teams\, scores\, and later rounds are published with 
+ stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:4dd7d9064321
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021471@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260626T070000
+DTEND;TZID=Asia/Shanghai:20260626T090000
+SUMMARY:🔥 🇯🇵 Japan vs Sweden 🇸🇪
+LOCATION:Dallas Stadium\, Dallas\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group F\nRound/Group: Group F\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Dallas Stadium\nCity/Country: Dallas\, USA\nKickof
+ f: 2026-06-26T07:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster
+ : Not published in the FIFA API response.\nData source: https://www.fifa.c
+ om/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedul
+ e-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3
+ /calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T0
+ 0%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription fe
+ ed. FIFA updates to teams\, scores\, and later rounds are published with s
+ table event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:8c68b859c2e2
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021473@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260626T070000
+DTEND;TZID=Asia/Shanghai:20260626T090000
+SUMMARY:🇹🇳 Tunisia vs Netherlands 🇳🇱
+LOCATION:Kansas City Stadium\, Kansas City\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group F\nRound/Group: Group F\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Kansas City Stadium\nCity/Country: Kansas City\, USA\nKickoff: 2026
+ -06-26T07:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not p
+ ublished in the FIFA API response.\nData source: https://www.fifa.com/en/t
+ ournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtu
+ res-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calend
+ ar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%
+ 3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIF
+ A updates to teams\, scores\, and later rounds are published with stable e
+ vent UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:4492520fba1f
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021459@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260626T100000
+DTEND;TZID=Asia/Shanghai:20260626T120000
+SUMMARY:🔥 🇹🇷 Türkiye vs USA 🇺🇸
+LOCATION:Los Angeles Stadium\, Los Angeles\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group D\nRound/Group: Group D\nHot M
+ atch: Yes\nHot Reason: Host nation match\nFinal Score: Not played\nFIFA Ma
+ tch Status: 1\nVenue: Los Angeles Stadium\nCity/Country: Los Angeles\, USA
+ \nKickoff: 2026-06-26T10:00:00+08:00\nLocal timezone: America/Los_Angeles\
+ nBroadcaster: Not published in the FIFA API response.\nData source: https:
+ //www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/m
+ atch-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.fif
+ a.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&from=
+ 2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a sub
+ scription feed. FIFA updates to teams\, scores\, and later rounds are publ
+ ished with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:9bb6652dd911
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021461@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260626T100000
+DTEND;TZID=Asia/Shanghai:20260626T120000
+SUMMARY:🇵🇾 Paraguay vs Australia 🇦🇺
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group D\nRound/Group: Group D\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: San Francisco Bay Area Stadium\nCity/Country: San Francisco Bay Are
+ a\, USA\nKickoff: 2026-06-26T10:00:00+08:00\nLocal timezone: America/Los_A
+ ngeles\nBroadcaster: Not published in the FIFA API response.\nData source:
+  https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/art
+ icles/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://
+ api.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=1
+ 7&from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This i
+ s a subscription feed. FIFA updates to teams\, scores\, and later rounds a
+ re published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:fea3a649a5be
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021489@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260627T030000
+DTEND;TZID=Asia/Shanghai:20260627T050000
+SUMMARY:🇳🇴 Norway vs France 🇫🇷
+LOCATION:Boston Stadium\, Boston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group I\nRound/Group: Group I\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Boston Stadium\nCity/Country: Boston\, USA\nKickoff: 2026-06-27T03:
+ 00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published 
+ in the FIFA API response.\nData source: https://www.fifa.com/en/tournament
+ s/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resul
+ ts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matche
+ s?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=
+ 2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates
+  to teams\, scores\, and later rounds are published with stable event UIDs
+ .
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:b1d85a5e0261
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021493@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260627T030000
+DTEND;TZID=Asia/Shanghai:20260627T050000
+SUMMARY:🇸🇳 Senegal vs Iraq 🇮🇶
+LOCATION:Toronto Stadium\, Toronto\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group I\nRound/Group: Group I\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Toronto Stadium\nCity/Country: Toronto\, Canada\nKickoff: 2026-06-2
+ 7T03:00:00+08:00\nLocal timezone: America/Toronto\nBroadcaster: Not publis
+ hed in the FIFA API response.\nData source: https://www.fifa.com/en/tourna
+ ments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-r
+ esults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/ma
+ tches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z
+ &to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA upd
+ ates to teams\, scores\, and later rounds are published with stable event 
+ UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:9d129838cbce
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021479@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260627T110000
+DTEND;TZID=Asia/Shanghai:20260627T130000
+SUMMARY:🇪🇬 Egypt vs IR Iran 🇮🇷
+LOCATION:Seattle Stadium\, Seattle\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group G\nRound/Group: Group G\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Seattle Stadium\nCity/Country: Seattle\, USA\nKickoff: 2026-06-27T1
+ 1:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadcaster: Not publi
+ shed in the FIFA API response.\nData source: https://www.fifa.com/en/tourn
+ aments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-
+ results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/m
+ atches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00
+ Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA up
+ dates to teams\, scores\, and later rounds are published with stable event
+  UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:67343affb9bf
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021481@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260627T110000
+DTEND;TZID=Asia/Shanghai:20260627T130000
+SUMMARY:🔥 🇳🇿 New Zealand vs Belgium 🇧🇪
+LOCATION:BC Place Vancouver\, Vancouver\, Canada
+DESCRIPTION:Stage: First Stage\nGroup: Group G\nRound/Group: Group G\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: BC Place Vancouver\nCity/Country: Vancouver\, Cana
+ da\nKickoff: 2026-06-27T11:00:00+08:00\nLocal timezone: America/Vancouver\
+ nBroadcaster: Not published in the FIFA API response.\nData source: https:
+ //www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/m
+ atch-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.fif
+ a.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&from=
+ 2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a sub
+ scription feed. FIFA updates to teams\, scores\, and later rounds are publ
+ ished with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:197530b7148c
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021485@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260627T080000
+DTEND;TZID=Asia/Shanghai:20260627T100000
+SUMMARY:🇨🇻 Cabo Verde vs Saudi Arabia 🇸🇦
+LOCATION:Houston Stadium\, Houston\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group H\nRound/Group: Group H\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Houston Stadium\nCity/Country: Houston\, USA\nKickoff: 2026-06-27T0
+ 8:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published
+  in the FIFA API response.\nData source: https://www.fifa.com/en/tournamen
+ ts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resu
+ lts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/match
+ es?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to
+ =2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA update
+ s to teams\, scores\, and later rounds are published with stable event UID
+ s.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:f1a659b36630
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021484@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260627T080000
+DTEND;TZID=Asia/Shanghai:20260627T100000
+SUMMARY:🔥 🇺🇾 Uruguay vs Spain 🇪🇸
+LOCATION:Guadalajara Stadium\, Guadalajara\, Mexico
+DESCRIPTION:Stage: First Stage\nGroup: Group H\nRound/Group: Group H\nHot M
+ atch: Yes\nHot Reason: Traditional power matchup\nFinal Score: Not played\
+ nFIFA Match Status: 1\nVenue: Guadalajara Stadium\nCity/Country: Guadalaja
+ ra\, Mexico\nKickoff: 2026-06-27T08:00:00+08:00\nLocal timezone: America/M
+ exico_City\nBroadcaster: Not published in the FIFA API response.\nData sou
+ rce: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+ /articles/match-schedule-fixtures-results-teams-stadiums\nAPI source: http
+ s://api.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetiti
+ on=17&from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: Th
+ is is a subscription feed. FIFA updates to teams\, scores\, and later roun
+ ds are published with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:62dc1613d02f
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021508@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260628T050000
+DTEND;TZID=Asia/Shanghai:20260628T070000
+SUMMARY:🇵🇦 Panama vs England 🏴
+LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group L\nRound/Group: Group L\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: New York/New Jersey Stadium\nCity/Country: New Jersey\, USA\nKickof
+ f: 2026-06-28T05:00:00+08:00\nLocal timezone: America/New_York\nBroadcaste
+ r: Not published in the FIFA API response.\nData source: https://www.fifa.
+ com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedu
+ le-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v
+ 3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T
+ 00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription f
+ eed. FIFA updates to teams\, scores\, and later rounds are published with 
+ stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:8393e675eb95
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021509@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260628T050000
+DTEND;TZID=Asia/Shanghai:20260628T070000
+SUMMARY:🔥 🇭🇷 Croatia vs Ghana 🇬🇭
+LOCATION:Philadelphia Stadium\, Philadelphia\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group L\nRound/Group: Group L\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Philadelphia Stadium\nCity/Country: Philadelphia\,
+  USA\nKickoff: 2026-06-28T05:00:00+08:00\nLocal timezone: America/New_York
+ \nBroadcaster: Not published in the FIFA API response.\nData source: https
+ ://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/
+ match-schedule-fixtures-results-teams-stadiums\nAPI source: https://api.fi
+ fa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=17&from
+ =2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a su
+ bscription feed. FIFA updates to teams\, scores\, and later rounds are pub
+ lished with stable event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:b28803262e6e
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021497@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260628T100000
+DTEND;TZID=Asia/Shanghai:20260628T120000
+SUMMARY:🇩🇿 Algeria vs Austria 🇦🇹
+LOCATION:Kansas City Stadium\, Kansas City\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group J\nRound/Group: Group J\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Kansas City Stadium\nCity/Country: Kansas City\, USA\nKickoff: 2026
+ -06-28T10:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not p
+ ublished in the FIFA API response.\nData source: https://www.fifa.com/en/t
+ ournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtu
+ res-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calend
+ ar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%
+ 3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIF
+ A updates to teams\, scores\, and later rounds are published with stable e
+ vent UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:cb3ff504dea6
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021495@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260628T100000
+DTEND;TZID=Asia/Shanghai:20260628T120000
+SUMMARY:🇯🇴 Jordan vs Argentina 🇦🇷
+LOCATION:Dallas Stadium\, Dallas\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group J\nRound/Group: Group J\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Dallas Stadium\nCity/Country: Dallas\, USA\nKickoff: 2026-06-28T10:
+ 00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published i
+ n the FIFA API response.\nData source: https://www.fifa.com/en/tournaments
+ /mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-result
+ s-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches
+ ?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=2
+ 026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates 
+ to teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:a7c14abc2726
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021505@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260628T073000
+DTEND;TZID=Asia/Shanghai:20260628T093000
+SUMMARY:🔥 🇨🇴 Colombia vs Portugal 🇵🇹
+LOCATION:Miami Stadium\, Miami\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group K\nRound/Group: Group K\nHot M
+ atch: Yes\nHot Reason: High-attention team\nFinal Score: Not played\nFIFA 
+ Match Status: 1\nVenue: Miami Stadium\nCity/Country: Miami\, USA\nKickoff:
+  2026-06-28T07:30:00+08:00\nLocal timezone: America/New_York\nBroadcaster:
+  Not published in the FIFA API response.\nData source: https://www.fifa.co
+ m/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule
+ -fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/
+ calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00
+ %3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription fee
+ d. FIFA updates to teams\, scores\, and later rounds are published with st
+ able event UIDs.
+CATEGORIES:Hot Match
+COLOR:#FF3B30
+X-APPLE-CALENDAR-COLOR:#FF3B30
+X-APPLE-EVENT-COLOR:#FF3B30
+X-WORLDCUP-REVISION:a756d494fe42
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021500@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260628T073000
+DTEND;TZID=Asia/Shanghai:20260628T093000
+SUMMARY:🇨🇩 Congo DR vs Uzbekistan 🇺🇿
+LOCATION:Atlanta Stadium\, Atlanta\, USA
+DESCRIPTION:Stage: First Stage\nGroup: Group K\nRound/Group: Group K\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Atlanta Stadium\nCity/Country: Atlanta\, USA\nKickoff: 2026-06-28T0
+ 7:30:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not publishe
+ d in the FIFA API response.\nData source: https://www.fifa.com/en/tourname
+ nts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-res
+ ults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matc
+ hes?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&t
+ o=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updat
+ es to teams\, scores\, and later rounds are published with stable event UI
+ Ds.
+CATEGORIES:Group Stage
+COLOR:#0A84FF
+X-APPLE-CALENDAR-COLOR:#0A84FF
+X-APPLE-EVENT-COLOR:#0A84FF
+X-WORLDCUP-REVISION:867c1202f384
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021518@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260629T030000
+DTEND;TZID=Asia/Shanghai:20260629T050000
+SUMMARY:2A vs 2B
+LOCATION:Los Angeles Stadium\, Los Angeles\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Los Angeles Stadium\nCity/Country: Los Angeles\, USA\nKickoff: 2026
+ -06-29T03:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadcaster: N
+ ot published in the FIFA API response.\nData source: https://www.fifa.com/
+ en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
+ ixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/ca
+ lendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3
+ A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed.
+  FIFA updates to teams\, scores\, and later rounds are published with stab
+ le event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:a33ba2e084ea
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021513@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260630T043000
+DTEND;TZID=Asia/Shanghai:20260630T063000
+SUMMARY:1E vs 3ABCDF
+LOCATION:Boston Stadium\, Boston\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Boston Stadium\nCity/Country: Boston\, USA\nKickoff: 2026-06-30T04:
+ 30:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published 
+ in the FIFA API response.\nData source: https://www.fifa.com/en/tournament
+ s/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resul
+ ts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matche
+ s?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=
+ 2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates
+  to teams\, scores\, and later rounds are published with stable event UIDs
+ .
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:c68254778df5
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021522@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260630T090000
+DTEND;TZID=Asia/Shanghai:20260630T110000
+SUMMARY:1F vs 2C
+LOCATION:Monterrey Stadium\, Monterrey\, Mexico
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Monterrey Stadium\nCity/Country: Monterrey\, Mexico\nKickoff: 2026-
+ 06-30T09:00:00+08:00\nLocal timezone: America/Monterrey\nBroadcaster: Not 
+ published in the FIFA API response.\nData source: https://www.fifa.com/en/
+ tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixt
+ ures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calen
+ dar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00
+ %3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FI
+ FA updates to teams\, scores\, and later rounds are published with stable 
+ event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:b16d27c13186
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021516@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260630T010000
+DTEND;TZID=Asia/Shanghai:20260630T030000
+SUMMARY:1C vs 2F
+LOCATION:Houston Stadium\, Houston\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Houston Stadium\nCity/Country: Houston\, USA\nKickoff: 2026-06-30T0
+ 1:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published
+  in the FIFA API response.\nData source: https://www.fifa.com/en/tournamen
+ ts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resu
+ lts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/match
+ es?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to
+ =2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA update
+ s to teams\, scores\, and later rounds are published with stable event UID
+ s.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:9ca4bf55f382
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021523@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260701T050000
+DTEND;TZID=Asia/Shanghai:20260701T070000
+SUMMARY:1I vs 3CDFGH
+LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: New York/New Jersey Stadium\nCity/Country: New Jersey\, USA\nKickof
+ f: 2026-07-01T05:00:00+08:00\nLocal timezone: America/New_York\nBroadcaste
+ r: Not published in the FIFA API response.\nData source: https://www.fifa.
+ com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedu
+ le-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v
+ 3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T
+ 00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription f
+ eed. FIFA updates to teams\, scores\, and later rounds are published with 
+ stable event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:27c8933d08bb
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021514@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260701T010000
+DTEND;TZID=Asia/Shanghai:20260701T030000
+SUMMARY:2E vs 2I
+LOCATION:Dallas Stadium\, Dallas\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Dallas Stadium\nCity/Country: Dallas\, USA\nKickoff: 2026-07-01T01:
+ 00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published i
+ n the FIFA API response.\nData source: https://www.fifa.com/en/tournaments
+ /mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-result
+ s-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches
+ ?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=2
+ 026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates 
+ to teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:e4f6e71ade32
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021520@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260701T090000
+DTEND;TZID=Asia/Shanghai:20260701T110000
+SUMMARY:1A vs 3CEFHI
+LOCATION:Mexico City Stadium\, Mexico City\, Mexico
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Mexico City Stadium\nCity/Country: Mexico City\, Mexico\nKickoff: 2
+ 026-07-01T09:00:00+08:00\nLocal timezone: America/Mexico_City\nBroadcaster
+ : Not published in the FIFA API response.\nData source: https://www.fifa.c
+ om/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedul
+ e-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3
+ /calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T0
+ 0%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription fe
+ ed. FIFA updates to teams\, scores\, and later rounds are published with s
+ table event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:24178a3b9f9a
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021512@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260702T000000
+DTEND;TZID=Asia/Shanghai:20260702T020000
+SUMMARY:1L vs 3EHIJK
+LOCATION:Atlanta Stadium\, Atlanta\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Atlanta Stadium\nCity/Country: Atlanta\, USA\nKickoff: 2026-07-02T0
+ 0:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not publishe
+ d in the FIFA API response.\nData source: https://www.fifa.com/en/tourname
+ nts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-res
+ ults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matc
+ hes?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&t
+ o=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updat
+ es to teams\, scores\, and later rounds are published with stable event UI
+ Ds.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:e20d4e806ffa
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021524@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260702T080000
+DTEND;TZID=Asia/Shanghai:20260702T100000
+SUMMARY:1D vs 3BEFIJ
+LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: San Francisco Bay Area Stadium\nCity/Country: San Francisco Bay Are
+ a\, USA\nKickoff: 2026-07-02T08:00:00+08:00\nLocal timezone: America/Los_A
+ ngeles\nBroadcaster: Not published in the FIFA API response.\nData source:
+  https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/art
+ icles/match-schedule-fixtures-results-teams-stadiums\nAPI source: https://
+ api.fifa.com/api/v3/calendar/matches?language=en&count=500&idCompetition=1
+ 7&from=2026-06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This i
+ s a subscription feed. FIFA updates to teams\, scores\, and later rounds a
+ re published with stable event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:680510d3174a
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021525@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260702T040000
+DTEND;TZID=Asia/Shanghai:20260702T060000
+SUMMARY:1G vs 3AEHIJ
+LOCATION:Seattle Stadium\, Seattle\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Seattle Stadium\nCity/Country: Seattle\, USA\nKickoff: 2026-07-02T0
+ 4:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadcaster: Not publi
+ shed in the FIFA API response.\nData source: https://www.fifa.com/en/tourn
+ aments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-
+ results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/m
+ atches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00
+ Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA up
+ dates to teams\, scores\, and later rounds are published with stable event
+  UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:3c043fbb6ea8
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021526@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260703T070000
+DTEND;TZID=Asia/Shanghai:20260703T090000
+SUMMARY:2K vs 2L
+LOCATION:Toronto Stadium\, Toronto\, Canada
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Toronto Stadium\nCity/Country: Toronto\, Canada\nKickoff: 2026-07-0
+ 3T07:00:00+08:00\nLocal timezone: America/Toronto\nBroadcaster: Not publis
+ hed in the FIFA API response.\nData source: https://www.fifa.com/en/tourna
+ ments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-r
+ esults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/ma
+ tches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z
+ &to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA upd
+ ates to teams\, scores\, and later rounds are published with stable event 
+ UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:f985aea518d2
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021519@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260703T030000
+DTEND;TZID=Asia/Shanghai:20260703T050000
+SUMMARY:1H vs 2J
+LOCATION:Los Angeles Stadium\, Los Angeles\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Los Angeles Stadium\nCity/Country: Los Angeles\, USA\nKickoff: 2026
+ -07-03T03:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadcaster: N
+ ot published in the FIFA API response.\nData source: https://www.fifa.com/
+ en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
+ ixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/ca
+ lendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3
+ A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed.
+  FIFA updates to teams\, scores\, and later rounds are published with stab
+ le event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:d793b9b8e545
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021527@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260703T110000
+DTEND;TZID=Asia/Shanghai:20260703T130000
+SUMMARY:1B vs 3EFGIJ
+LOCATION:BC Place Vancouver\, Vancouver\, Canada
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: BC Place Vancouver\nCity/Country: Vancouver\, Canada\nKickoff: 2026
+ -07-03T11:00:00+08:00\nLocal timezone: America/Vancouver\nBroadcaster: Not
+  published in the FIFA API response.\nData source: https://www.fifa.com/en
+ /tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fix
+ tures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/cale
+ ndar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A0
+ 0%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. F
+ IFA updates to teams\, scores\, and later rounds are published with stable
+  event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:2fb60ca5bf4d
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021521@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260704T060000
+DTEND;TZID=Asia/Shanghai:20260704T080000
+SUMMARY:1J vs 2H
+LOCATION:Miami Stadium\, Miami\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Miami Stadium\nCity/Country: Miami\, USA\nKickoff: 2026-07-04T06:00
+ :00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published in
+  the FIFA API response.\nData source: https://www.fifa.com/en/tournaments/
+ mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results
+ -teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches?
+ language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=20
+ 26-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates t
+ o teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:7291efb8483d
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021517@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260704T093000
+DTEND;TZID=Asia/Shanghai:20260704T113000
+SUMMARY:1K vs 3DEIJL
+LOCATION:Kansas City Stadium\, Kansas City\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Kansas City Stadium\nCity/Country: Kansas City\, USA\nKickoff: 2026
+ -07-04T09:30:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not p
+ ublished in the FIFA API response.\nData source: https://www.fifa.com/en/t
+ ournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtu
+ res-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calend
+ ar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%
+ 3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIF
+ A updates to teams\, scores\, and later rounds are published with stable e
+ vent UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:66e669e8c4fa
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021515@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260704T020000
+DTEND;TZID=Asia/Shanghai:20260704T040000
+SUMMARY:2D vs 2G
+LOCATION:Dallas Stadium\, Dallas\, USA
+DESCRIPTION:Stage: Round of 32\nGroup: N/A\nRound/Group: Round of 32\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Dallas Stadium\nCity/Country: Dallas\, USA\nKickoff: 2026-07-04T02:
+ 00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published i
+ n the FIFA API response.\nData source: https://www.fifa.com/en/tournaments
+ /mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-result
+ s-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches
+ ?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=2
+ 026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates 
+ to teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Round of 32
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:0485d0a481b0
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021533@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260705T050000
+DTEND;TZID=Asia/Shanghai:20260705T070000
+SUMMARY:W74 vs W77
+LOCATION:Philadelphia Stadium\, Philadelphia\, USA
+DESCRIPTION:Stage: Round of 16\nGroup: N/A\nRound/Group: Round of 16\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Philadelphia Stadium\nCity/Country: Philadelphia\, USA\nKickoff: 20
+ 26-07-05T05:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: No
+ t published in the FIFA API response.\nData source: https://www.fifa.com/e
+ n/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fi
+ xtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/cal
+ endar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A
+ 00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. 
+ FIFA updates to teams\, scores\, and later rounds are published with stabl
+ e event UIDs.
+CATEGORIES:Round of 16
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:3725ceb47e0c
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021530@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260705T010000
+DTEND;TZID=Asia/Shanghai:20260705T030000
+SUMMARY:W73 vs W75
+LOCATION:Houston Stadium\, Houston\, USA
+DESCRIPTION:Stage: Round of 16\nGroup: N/A\nRound/Group: Round of 16\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Houston Stadium\nCity/Country: Houston\, USA\nKickoff: 2026-07-05T0
+ 1:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published
+  in the FIFA API response.\nData source: https://www.fifa.com/en/tournamen
+ ts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resu
+ lts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/match
+ es?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to
+ =2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA update
+ s to teams\, scores\, and later rounds are published with stable event UID
+ s.
+CATEGORIES:Round of 16
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:fb258de30406
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021532@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260706T040000
+DTEND;TZID=Asia/Shanghai:20260706T060000
+SUMMARY:W76 vs W78
+LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
+DESCRIPTION:Stage: Round of 16\nGroup: N/A\nRound/Group: Round of 16\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: New York/New Jersey Stadium\nCity/Country: New Jersey\, USA\nKickof
+ f: 2026-07-06T04:00:00+08:00\nLocal timezone: America/New_York\nBroadcaste
+ r: Not published in the FIFA API response.\nData source: https://www.fifa.
+ com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedu
+ le-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v
+ 3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T
+ 00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription f
+ eed. FIFA updates to teams\, scores\, and later rounds are published with 
+ stable event UIDs.
+CATEGORIES:Round of 16
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:508167c66297
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021531@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260706T080000
+DTEND;TZID=Asia/Shanghai:20260706T100000
+SUMMARY:W79 vs W80
+LOCATION:Mexico City Stadium\, Mexico City\, Mexico
+DESCRIPTION:Stage: Round of 16\nGroup: N/A\nRound/Group: Round of 16\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Mexico City Stadium\nCity/Country: Mexico City\, Mexico\nKickoff: 2
+ 026-07-06T08:00:00+08:00\nLocal timezone: America/Mexico_City\nBroadcaster
+ : Not published in the FIFA API response.\nData source: https://www.fifa.c
+ om/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedul
+ e-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3
+ /calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T0
+ 0%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription fe
+ ed. FIFA updates to teams\, scores\, and later rounds are published with s
+ table event UIDs.
+CATEGORIES:Round of 16
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:949e6b37170e
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021529@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260707T030000
+DTEND;TZID=Asia/Shanghai:20260707T050000
+SUMMARY:W83 vs W84
+LOCATION:Dallas Stadium\, Dallas\, USA
+DESCRIPTION:Stage: Round of 16\nGroup: N/A\nRound/Group: Round of 16\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Dallas Stadium\nCity/Country: Dallas\, USA\nKickoff: 2026-07-07T03:
+ 00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published i
+ n the FIFA API response.\nData source: https://www.fifa.com/en/tournaments
+ /mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-result
+ s-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches
+ ?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=2
+ 026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates 
+ to teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Round of 16
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:b51120dc1312
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021534@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260707T080000
+DTEND;TZID=Asia/Shanghai:20260707T100000
+SUMMARY:W81 vs W82
+LOCATION:Seattle Stadium\, Seattle\, USA
+DESCRIPTION:Stage: Round of 16\nGroup: N/A\nRound/Group: Round of 16\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Seattle Stadium\nCity/Country: Seattle\, USA\nKickoff: 2026-07-07T0
+ 8:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadcaster: Not publi
+ shed in the FIFA API response.\nData source: https://www.fifa.com/en/tourn
+ aments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-
+ results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/m
+ atches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00
+ Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA up
+ dates to teams\, scores\, and later rounds are published with stable event
+  UIDs.
+CATEGORIES:Round of 16
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:42f215d02a0c
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021528@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260708T000000
+DTEND;TZID=Asia/Shanghai:20260708T020000
+SUMMARY:W86 vs W88
+LOCATION:Atlanta Stadium\, Atlanta\, USA
+DESCRIPTION:Stage: Round of 16\nGroup: N/A\nRound/Group: Round of 16\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: Atlanta Stadium\nCity/Country: Atlanta\, USA\nKickoff: 2026-07-08T0
+ 0:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not publishe
+ d in the FIFA API response.\nData source: https://www.fifa.com/en/tourname
+ nts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-res
+ ults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matc
+ hes?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&t
+ o=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updat
+ es to teams\, scores\, and later rounds are published with stable event UI
+ Ds.
+CATEGORIES:Round of 16
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:1f429cc4a182
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021535@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260708T040000
+DTEND;TZID=Asia/Shanghai:20260708T060000
+SUMMARY:W85 vs W87
+LOCATION:BC Place Vancouver\, Vancouver\, Canada
+DESCRIPTION:Stage: Round of 16\nGroup: N/A\nRound/Group: Round of 16\nHot M
+ atch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\n
+ Venue: BC Place Vancouver\nCity/Country: Vancouver\, Canada\nKickoff: 2026
+ -07-08T04:00:00+08:00\nLocal timezone: America/Vancouver\nBroadcaster: Not
+  published in the FIFA API response.\nData source: https://www.fifa.com/en
+ /tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fix
+ tures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/cale
+ ndar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A0
+ 0%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. F
+ IFA updates to teams\, scores\, and later rounds are published with stable
+  event UIDs.
+CATEGORIES:Round of 16
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:4b814a939a03
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021536@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260710T040000
+DTEND;TZID=Asia/Shanghai:20260710T060000
+SUMMARY:W89 vs W90
+LOCATION:Boston Stadium\, Boston\, USA
+DESCRIPTION:Stage: Quarter-final\nGroup: N/A\nRound/Group: Quarter-final\nH
+ ot Match: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status:
+  1\nVenue: Boston Stadium\nCity/Country: Boston\, USA\nKickoff: 2026-07-10
+ T04:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not publis
+ hed in the FIFA API response.\nData source: https://www.fifa.com/en/tourna
+ ments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-r
+ esults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/ma
+ tches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z
+ &to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA upd
+ ates to teams\, scores\, and later rounds are published with stable event 
+ UIDs.
+CATEGORIES:Quarter-final
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:fd2b741264aa
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021538@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260711T030000
+DTEND;TZID=Asia/Shanghai:20260711T050000
+SUMMARY:W93 vs W94
+LOCATION:Los Angeles Stadium\, Los Angeles\, USA
+DESCRIPTION:Stage: Quarter-final\nGroup: N/A\nRound/Group: Quarter-final\nH
+ ot Match: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status:
+  1\nVenue: Los Angeles Stadium\nCity/Country: Los Angeles\, USA\nKickoff: 
+ 2026-07-11T03:00:00+08:00\nLocal timezone: America/Los_Angeles\nBroadcaste
+ r: Not published in the FIFA API response.\nData source: https://www.fifa.
+ com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedu
+ le-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v
+ 3/calendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T
+ 00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription f
+ eed. FIFA updates to teams\, scores\, and later rounds are published with 
+ stable event UIDs.
+CATEGORIES:Quarter-final
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:5583e17e09e6
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021539@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260712T050000
+DTEND;TZID=Asia/Shanghai:20260712T070000
+SUMMARY:W91 vs W92
+LOCATION:Miami Stadium\, Miami\, USA
+DESCRIPTION:Stage: Quarter-final\nGroup: N/A\nRound/Group: Quarter-final\nH
+ ot Match: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status:
+  1\nVenue: Miami Stadium\nCity/Country: Miami\, USA\nKickoff: 2026-07-12T0
+ 5:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not publishe
+ d in the FIFA API response.\nData source: https://www.fifa.com/en/tourname
+ nts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-res
+ ults-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matc
+ hes?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&t
+ o=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updat
+ es to teams\, scores\, and later rounds are published with stable event UI
+ Ds.
+CATEGORIES:Quarter-final
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:0e23b3bc5b73
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021537@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260712T090000
+DTEND;TZID=Asia/Shanghai:20260712T110000
+SUMMARY:W95 vs W96
+LOCATION:Kansas City Stadium\, Kansas City\, USA
+DESCRIPTION:Stage: Quarter-final\nGroup: N/A\nRound/Group: Quarter-final\nH
+ ot Match: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status:
+  1\nVenue: Kansas City Stadium\nCity/Country: Kansas City\, USA\nKickoff: 
+ 2026-07-12T09:00:00+08:00\nLocal timezone: America/Chicago\nBroadcaster: N
+ ot published in the FIFA API response.\nData source: https://www.fifa.com/
+ en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
+ ixtures-results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/ca
+ lendar/matches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3
+ A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed.
+  FIFA updates to teams\, scores\, and later rounds are published with stab
+ le event UIDs.
+CATEGORIES:Quarter-final
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:dcd8c80877c0
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021541@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260715T030000
+DTEND;TZID=Asia/Shanghai:20260715T050000
+SUMMARY:W97 vs W98
+LOCATION:Dallas Stadium\, Dallas\, USA
+DESCRIPTION:Stage: Semi-final\nGroup: N/A\nRound/Group: Semi-final\nHot Mat
+ ch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\nVe
+ nue: Dallas Stadium\nCity/Country: Dallas\, USA\nKickoff: 2026-07-15T03:00
+ :00+08:00\nLocal timezone: America/Chicago\nBroadcaster: Not published in 
+ the FIFA API response.\nData source: https://www.fifa.com/en/tournaments/m
+ ens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-
+ teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matches?l
+ anguage=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=202
+ 6-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates to
+  teams\, scores\, and later rounds are published with stable event UIDs.
+CATEGORIES:Semi-final
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:8a144b7245b2
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021540@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260716T030000
+DTEND;TZID=Asia/Shanghai:20260716T050000
+SUMMARY:W99 vs W100
+LOCATION:Atlanta Stadium\, Atlanta\, USA
+DESCRIPTION:Stage: Semi-final\nGroup: N/A\nRound/Group: Semi-final\nHot Mat
+ ch: No\nHot Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\nVe
+ nue: Atlanta Stadium\nCity/Country: Atlanta\, USA\nKickoff: 2026-07-16T03:
+ 00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not published 
+ in the FIFA API response.\nData source: https://www.fifa.com/en/tournament
+ s/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resul
+ ts-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/matche
+ s?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00Z&to=
+ 2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA updates
+  to teams\, scores\, and later rounds are published with stable event UIDs
+ .
+CATEGORIES:Semi-final
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:0f0a14d1874d
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021542@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260719T050000
+DTEND;TZID=Asia/Shanghai:20260719T070000
+SUMMARY:RU101 vs RU102
+LOCATION:Miami Stadium\, Miami\, USA
+DESCRIPTION:Stage: Play-off for third place\nGroup: N/A\nRound/Group: Play-
+ off for third place\nHot Match: No\nHot Reason: N/A\nFinal Score: Not play
+ ed\nFIFA Match Status: 1\nVenue: Miami Stadium\nCity/Country: Miami\, USA\
+ nKickoff: 2026-07-19T05:00:00+08:00\nLocal timezone: America/New_York\nBro
+ adcaster: Not published in the FIFA API response.\nData source: https://ww
+ w.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match
+ -schedule-fixtures-results-teams-stadiums\nAPI source: https://api.fifa.co
+ m/api/v3/calendar/matches?language=en&count=500&idCompetition=17&from=2026
+ -06-01T00%3A00%3A00Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscri
+ ption feed. FIFA updates to teams\, scores\, and later rounds are publishe
+ d with stable event UIDs.
+CATEGORIES:Play-off for third place
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:caf739a9d03c
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifa-2026-match-400021543@worldcup-calendar
+DTSTAMP:20260611T163432Z
+LAST-MODIFIED:20260611T163432Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Shanghai:20260720T030000
+DTEND;TZID=Asia/Shanghai:20260720T050000
+SUMMARY:W101 vs W102
+LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
+DESCRIPTION:Stage: Final\nGroup: N/A\nRound/Group: Final\nHot Match: No\nHo
+ t Reason: N/A\nFinal Score: Not played\nFIFA Match Status: 1\nVenue: New Y
+ ork/New Jersey Stadium\nCity/Country: New Jersey\, USA\nKickoff: 2026-07-2
+ 0T03:00:00+08:00\nLocal timezone: America/New_York\nBroadcaster: Not publi
+ shed in the FIFA API response.\nData source: https://www.fifa.com/en/tourn
+ aments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-
+ results-teams-stadiums\nAPI source: https://api.fifa.com/api/v3/calendar/m
+ atches?language=en&count=500&idCompetition=17&from=2026-06-01T00%3A00%3A00
+ Z&to=2026-07-30T00%3A00%3A00Z\nNotes: This is a subscription feed. FIFA up
+ dates to teams\, scores\, and later rounds are published with stable event
+  UIDs.
+CATEGORIES:Final
+COLOR:#34C759
+X-APPLE-CALENDAR-COLOR:#34C759
+X-APPLE-EVENT-COLOR:#34C759
+X-WORLDCUP-REVISION:5131e580a5b2
+URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
+ rticles/match-schedule-fixtures-results-teams-stadiums
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 1 day
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 2 hours
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match starts in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
