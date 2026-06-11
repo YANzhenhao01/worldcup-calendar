@@ -22,28 +22,49 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      - name: Check update window
+        id: update-window
+        run: |
+          cutoff_epoch=$(date -u -d "2026-07-22T00:00:00Z" +%s)
+          now_epoch=$(date -u +%s)
+
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$now_epoch" -ge "$cutoff_epoch" ]; then
+            echo "The scheduled World Cup refresh window has ended."
+            echo "Manual workflow_dispatch runs are still allowed."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Check out repository
+        if: steps.update-window.outputs.should_run == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Python
+        if: steps.update-window.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install dependencies
+        if: steps.update-window.outputs.should_run == 'true'
         run: python -m pip install -r requirements.txt
 
       - name: Generate subscription feed
+        if: steps.update-window.outputs.should_run == 'true'
         run: python src/main.py --refresh --publish-dir site
 
       - name: Configure GitHub Pages
+        if: steps.update-window.outputs.should_run == 'true'
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        if: steps.update-window.outputs.should_run == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
       - name: Deploy to GitHub Pages
+        if: steps.update-window.outputs.should_run == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
