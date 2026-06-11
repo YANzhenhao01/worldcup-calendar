@@ -55,6 +55,8 @@ The workflow:
 3. Regenerates `site/worldcup_2026.ics`.
 4. Publishes the `site/` directory to GitHub Pages.
 
+Scheduled refreshes automatically stop after `2026-07-22T00:00:00Z`, giving the final a short buffer for score and winner updates. Manual workflow runs remain available after that date.
+
 After GitHub Pages is enabled, the subscription URL will look like:
 
 ```text
