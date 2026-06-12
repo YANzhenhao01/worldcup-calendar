@@ -351,6 +351,28 @@ def landing_page_html(public_base_url: str) -> str:
     escaped_https_url = html.escape(https_ics_url, quote=True)
     escaped_webcal_url = html.escape(webcal_url, quote=True)
     escaped_page_url = html.escape(page_url, quote=True)
+    project_root = Path(__file__).resolve().parents[1]
+    checked_in_page = project_root / "site" / "index.html"
+    if checked_in_page.exists():
+        page_html = checked_in_page.read_text(encoding="utf-8")
+        if "data-last-updated" in page_html and "worldcup-hero-bg.png" in page_html:
+            escaped_default_page_url = html.escape(
+                normalize_public_base_url(DEFAULT_PUBLIC_BASE_URL) + "/",
+                quote=True,
+            )
+            escaped_default_webcal_url = html.escape(
+                subscription_urls(DEFAULT_PUBLIC_BASE_URL)[1],
+                quote=True,
+            )
+            display_page_url = escaped_page_url.removesuffix("/")
+            display_default_page_url = escaped_default_page_url.removesuffix("/")
+            return (
+                page_html
+                .replace(escaped_default_webcal_url, escaped_webcal_url)
+                .replace(escaped_default_page_url, escaped_page_url)
+                .replace(display_default_page_url, display_page_url)
+            )
+
     return f"""<!doctype html>
 <html lang="zh-CN">
 <head>
