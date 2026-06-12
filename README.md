@@ -36,6 +36,9 @@ Generated local files:
 - `site/worldcup_2026.ics`: static file intended for web hosting.
 - `site/index.html`: mobile-friendly iPhone subscription landing page.
 - `site/subscribe-qr.svg`: QR code that points to the `webcal://` subscription URL.
+- `site/worldcup-hero-bg.png`: landing-page stadium hero background.
+- `site/worldcup-trophy-mark.png`: trophy mark used in the page header.
+- `site/icon-title-calendar.png`, `site/icon-step-calendar.png`, `site/icon-step-check.png`: landing-page UI icon assets.
 
 All event times are converted to `Asia/Shanghai`.
 
@@ -66,8 +69,8 @@ The page includes:
 - A primary `webcal://` button: `📲 一键订阅到 iPhone 日历`
 - A backup `worldcup_2026.ics` download link
 - A QR code for iPhone camera scanning
-- A copy-subscription-link button
 - Short iPhone setup steps in Chinese
+- A live status card that fetches `worldcup_2026.ics` in the browser, reads `LAST-MODIFIED` / `DTSTAMP`, and counts `BEGIN:VEVENT`
 - Notes about China-time display, hot-match markers, reminders, and auto updates
 
 For iPhone users, prefer the page or this `webcal://` URL:
@@ -99,6 +102,8 @@ The workflow:
 3. Regenerates `site/worldcup_2026.ics`, `site/index.html`, and `site/subscribe-qr.svg`.
 4. Builds the public landing-page URL from the GitHub repository owner/name.
 5. Publishes the `site/` directory to GitHub Pages.
+
+The workflow uses current GitHub Actions versions that run on Node.js 24, avoiding the older Node.js 20 action runtime deprecation path.
 
 Scheduled refreshes automatically stop after `2026-07-22T00:00:00Z`, giving the final a short buffer for score and winner updates. Manual workflow runs remain available after that date.
 
