@@ -34,9 +34,53 @@ Generated local files:
 - `output/worldcup_2026_china.ics`: full 104-match China-time ICS feed.
 - `output/schedule_preview.csv`: preview table for manual checking.
 - `site/worldcup_2026.ics`: static file intended for web hosting.
-- `site/index.html`: tiny landing page for the hosted feed.
+- `site/index.html`: mobile-friendly iPhone subscription landing page.
+- `site/subscribe-qr.svg`: QR code that points to the `webcal://` subscription URL.
 
 All event times are converted to `Asia/Shanghai`.
+
+The landing page defaults to this public GitHub Pages base URL:
+
+```text
+https://YANzhenhao01.github.io/worldcup-calendar
+```
+
+If you fork or host the project somewhere else, pass a different public base URL when generating:
+
+```bash
+python3 src/main.py --public-base-url https://<your-github-username>.github.io/<repo-name>
+```
+
+You can also set it through the `PUBLIC_BASE_URL` environment variable.
+
+## Public iPhone Sharing Page
+
+After GitHub Pages is published, share this page with other iOS users:
+
+```text
+https://YANzhenhao01.github.io/worldcup-calendar/
+```
+
+The page includes:
+
+- A primary `webcal://` button: `📲 一键订阅到 iPhone 日历`
+- A backup `worldcup_2026.ics` download link
+- A QR code for iPhone camera scanning
+- A copy-subscription-link button
+- Short iPhone setup steps in Chinese
+- Notes about China-time display, hot-match markers, reminders, and auto updates
+
+For iPhone users, prefer the page or this `webcal://` URL:
+
+```text
+webcal://YANzhenhao01.github.io/worldcup-calendar/worldcup_2026.ics
+```
+
+The plain HTTPS ICS URL remains available as a fallback:
+
+```text
+https://YANzhenhao01.github.io/worldcup-calendar/worldcup_2026.ics
+```
 
 ## Auto-Update Hosting
 
@@ -52,8 +96,9 @@ The workflow:
 
 1. Runs every 30 minutes and also supports manual runs.
 2. Fetches the latest FIFA schedule.
-3. Regenerates `site/worldcup_2026.ics`.
-4. Publishes the `site/` directory to GitHub Pages.
+3. Regenerates `site/worldcup_2026.ics`, `site/index.html`, and `site/subscribe-qr.svg`.
+4. Builds the public landing-page URL from the GitHub repository owner/name.
+5. Publishes the `site/` directory to GitHub Pages.
 
 Scheduled refreshes automatically stop after `2026-07-22T00:00:00Z`, giving the final a short buffer for score and winner updates. Manual workflow runs remain available after that date.
 
@@ -81,7 +126,13 @@ Important: make `worldcup-calendar/` the repository root. The workflow must live
 4. Under `Build and deployment`, set `Source` to `GitHub Actions`.
 5. Open the `Actions` tab.
 6. Run `Update World Cup Calendar` manually once, or wait for the scheduled run.
-7. After the workflow succeeds, subscribe in Apple Calendar to:
+7. After the workflow succeeds, share the public landing page:
+
+```text
+https://YANzhenhao01.github.io/worldcup-calendar/
+```
+
+Or subscribe in Apple Calendar to:
 
 ```text
 https://YANzhenhao01.github.io/worldcup-calendar/worldcup_2026.ics
@@ -101,9 +152,10 @@ Use subscription instead:
 
 iPhone:
 
-1. Open the hosted `worldcup_2026.ics` or `webcal://` URL.
-2. Add it as a subscribed calendar.
-3. Avoid importing it as a static file.
+1. Open <https://YANzhenhao01.github.io/worldcup-calendar/> on iPhone, or scan the QR code on that page.
+2. Tap `📲 一键订阅到 iPhone 日历`.
+3. Confirm the iOS subscription prompt.
+4. Avoid importing it as a static file; importing creates a snapshot that will not update.
 
 ## Update Behavior
 

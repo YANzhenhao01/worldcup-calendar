@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import os
 from pathlib import Path
 
 from fetch_schedule import load_schedule
@@ -33,6 +34,14 @@ def parse_args() -> argparse.Namespace:
         default=str(SITE_DIR),
         help="Directory for static subscription files used by GitHub Pages.",
     )
+    parser.add_argument(
+        "--public-base-url",
+        default=os.environ.get(
+            "PUBLIC_BASE_URL",
+            "https://YANzhenhao01.github.io/worldcup-calendar",
+        ),
+        help="Public HTTPS base URL used to build webcal and QR subscription links.",
+    )
     return parser.parse_args()
 
 
@@ -63,9 +72,15 @@ def main() -> None:
     publish_dir = Path(args.publish_dir)
     if not publish_dir.is_absolute():
         publish_dir = ROOT / publish_dir
-    publish_subscription_files(ics_path, publish_dir)
+    publish_subscription_files(ics_path, publish_dir, args.public_base_url)
 
-    written = [preview_path, ics_path, publish_dir / "worldcup_2026.ics"]
+    written = [
+        preview_path,
+        ics_path,
+        publish_dir / "worldcup_2026.ics",
+        publish_dir / "index.html",
+        publish_dir / "subscribe-qr.svg",
+    ]
     group_stage_count = sum(1 for match in matches if match.stage == "First Stage")
     print(
         f"Loaded {len(matches)} tournament matches; "
