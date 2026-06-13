@@ -97,11 +97,14 @@ This repository includes:
 
 The workflow:
 
-1. Runs every 30 minutes and also supports manual runs.
-2. Fetches the latest FIFA schedule.
-3. Regenerates `site/worldcup_2026.ics`, `site/index.html`, and `site/subscribe-qr.svg`.
-4. Builds the public landing-page URL from the GitHub repository owner/name.
-5. Publishes the `site/` directory to GitHub Pages.
+1. Starts from generated static cron entries for match refresh points and also supports manual runs.
+2. Checks whether the current time is still an eligible match refresh point or inside the daily safety refresh window.
+3. Only when eligible, fetches the latest FIFA schedule.
+4. Regenerates `site/worldcup_2026.ics`, `site/index.html`, and `site/subscribe-qr.svg`.
+5. Builds the public landing-page URL from the GitHub repository owner/name.
+6. Publishes the `site/` directory to GitHub Pages.
+
+Match refresh points are intentionally sparse: once 2 hours before kickoff, once at kickoff, and then every 20 minutes for 3 hours after the scheduled 2-hour match block. Generated cron entries fire 5 minutes after those target points to avoid GitHub Actions top-of-hour scheduler load. The workflow does not refresh during the match itself after the kickoff refresh. Outside match refresh points, it performs one daily safety refresh around `00:00 UTC` to catch non-matchday schedule changes without constantly calling FIFA or redeploying Pages. The static cron list is generated from `data/schedule_cache.json` by running `python3 src/generate_workflow_schedule.py`.
 
 The workflow uses current GitHub Actions versions that run on Node.js 24, avoiding the older Node.js 20 action runtime deprecation path.
 
@@ -172,6 +175,8 @@ fifa-2026-match-<IdMatch>@worldcup-calendar
 
 When a placeholder matchup becomes a real matchup, or when scores become available, the feed updates the existing event with the same UID.
 
+Before kickoff, events show `Match Status: Not started`. During the scheduled 2-hour match window, events show `Match Status: In progress; live score not yet published by FIFA.` until FIFA publishes a score. After the scheduled window, events show `Match Status: Waiting for FIFA result update.` until a final score is available.
+
 Each event includes:
 
 - 2-hour duration
@@ -202,4 +207,4 @@ Normal matches get `Hot Match: No`.
 
 ## Notes
 
-Apple Calendar controls the actual refresh timing. The feed advertises a 30-minute refresh interval with `REFRESH-INTERVAL` and `X-PUBLISHED-TTL`, and the GitHub Action publishes every 30 minutes, but Apple may refresh less aggressively depending on account and device settings.
+Apple Calendar controls the actual refresh timing. To keep the public feed viable for larger subscriber counts, the feed advertises a 2-hour refresh interval with `REFRESH-INTERVAL` and `X-PUBLISHED-TTL`. GitHub Actions only starts from generated match refresh cron entries, the daily safety refresh, or manual runs. It then fetches FIFA and deploys only when `src/should_refresh.py` confirms the run is still eligible. Apple may still refresh more or less aggressively depending on account and device settings.

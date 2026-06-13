@@ -18,6 +18,8 @@ from normalize_schedule import Match
 CALENDAR_NAME = "2026 FIFA World Cup"
 CHINA_TIMEZONE = "Asia/Shanghai"
 DEFAULT_PUBLIC_BASE_URL = "https://YANzhenhao01.github.io/worldcup-calendar"
+MATCH_DURATION = timedelta(hours=2)
+FEED_REFRESH_INTERVAL = "PT2H"
 HOT_MATCH_COLOR = "#FF3B30"
 GROUP_STAGE_COLOR = "#0A84FF"
 KNOCKOUT_COLOR = "#34C759"
@@ -129,32 +131,35 @@ def format_datetime(dt: datetime, tz_name: str | None = None) -> str:
     return dt.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
 
-def event_description(match: Match, start_dt: datetime) -> str:
-    broadcaster = match.broadcaster or "Not published in the FIFA API response."
-    hot_reason = match.hot_reason or "N/A"
-    score = "Not played"
+def score_or_status(match: Match, start_dt: datetime, generated_at: datetime) -> str:
     if match.home_score is not None and match.away_score is not None:
         score = f"{match.home_team} {match.home_score}-{match.away_score} {match.away_team}"
         if match.home_penalty_score is not None and match.away_penalty_score is not None:
             score += f" (pens {match.home_penalty_score}-{match.away_penalty_score})"
-    group_or_stage = match.group or match.stage
+        return f"Final Score: {score}"
+
+    end_dt = start_dt + MATCH_DURATION
+    generated_local = generated_at.astimezone(start_dt.tzinfo)
+    if generated_local < start_dt:
+        return "Match Status: Not started"
+    if generated_local <= end_dt:
+        return "Match Status: In progress; live score not yet published by FIFA."
+    return "Match Status: Waiting for FIFA result update."
+
+
+def event_description(match: Match, start_dt: datetime, generated_at: datetime) -> str:
+    hot_reason = match.hot_reason or "N/A"
     return "\n".join(
         [
             f"Stage: {match.stage}",
             f"Group: {match.group or 'N/A'}",
-            f"Round/Group: {group_or_stage}",
             f"Hot Match: {'Yes' if match.hot else 'No'}",
             f"Hot Reason: {hot_reason}",
-            f"Final Score: {score}",
-            f"FIFA Match Status: {match.match_status if match.match_status is not None else 'N/A'}",
+            score_or_status(match, start_dt, generated_at),
             f"Venue: {match.venue}",
             f"City/Country: {match.city}, {match.country}",
             f"Kickoff: {start_dt.isoformat()}",
             f"Local timezone: {match.local_timezone}",
-            f"Broadcaster: {broadcaster}",
-            f"Data source: {match.source_page_url}",
-            f"API source: {match.api_url}",
-            "Notes: This is a subscription feed. FIFA updates to teams, scores, and later rounds are published with stable event UIDs.",
         ]
     )
 
@@ -196,14 +201,14 @@ def write_ics(
         f"X-WR-CALNAME:{escape_ics_text(calendar_name)}",
         f"X-WR-TIMEZONE:{escape_ics_text(CHINA_TIMEZONE)}",
         f"X-APPLE-CALENDAR-COLOR:{GROUP_STAGE_COLOR}",
-        "REFRESH-INTERVAL;VALUE=DURATION:PT30M",
-        "X-PUBLISHED-TTL:PT30M",
+        f"REFRESH-INTERVAL;VALUE=DURATION:{FEED_REFRESH_INTERVAL}",
+        f"X-PUBLISHED-TTL:{FEED_REFRESH_INTERVAL}",
     ]
 
     for match in matches:
         start = match.start_utc.astimezone(ZoneInfo(CHINA_TIMEZONE))
-        end = start + timedelta(hours=2)
-        description = event_description(match, start)
+        end = start + MATCH_DURATION
+        description = event_description(match, start, now)
         categories = event_category(match)
         color = event_color(match)
         revision_seed = "|".join(
